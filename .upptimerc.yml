@@ -5,23 +5,21 @@ repo: upptime # The name of this repository
 sites:
   - name: 反代1（diii.tk）
     url: https://diii.tk/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代2（go-back.cf）
-    url: https://api-pikpak.go-back.cf/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代3（tjsky.cf）
+  - name: 反代2（tjsky.cf）
     url: https://api-pikpak.tjsky.cf/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代4（tjsky-1.cf）
+  - name: 反代3（tjsky-1.cf）
     url: https://api-pikpak.tjsky-1.cf/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代5（he****.ga）
+  - name: 反代4（he****.ga）
     url: https://pikpak.he13797739994.ga/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代6（hdddd.me）
+  - name: 反代5（hdddd.me）
     url: https://pikpak.hdddd.me/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代7（yooyi.tk）
+  - name: 反代6（yooyi.tk）
     url: https://pan.yooyi.tk/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代8（nsso.eu.org）
+  - name: 反代7（nsso.eu.org）
     url: https://pikpak.nsso.eu.org/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代9（wnbh.cf）
+  - name: 反代8（wnbh.cf）
     url: https://pikpak-web.wnbh.cf/https://1.1.1.1/cdn-cgi/trace
-  - name: 反代10（pikpakz.top）
+  - name: 反代9（pikpakz.top）
     url: https://pk.pikpakz.top/https://1.1.1.1/cdn-cgi/trace
 
 status-website:
@@ -32,7 +30,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** 是完全由GitHub驱动的开源网页状态及运行时间监视工具"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: pikpak三方网页版反代监控，以下反代地址均为从网络公开采集。
   navbar:
     - title: Status
       href: /
