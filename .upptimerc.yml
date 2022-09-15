@@ -1,16 +1,16 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: tjsky # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 反代1（diii.tk）
+    url: https://diii.tk/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代2（go-back.cf）
+    url: https://api-pikpak.go-back.cf/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代3（tjsky.cf）
+    url: https://api-pikpak.tjsky.cf/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代4（tjsky-1.cf）
+    url: https://api-pikpak.tjsky-1.cf/https://1.1.1.1/cdn-cgi/trace
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,7 +25,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/tjsky/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
