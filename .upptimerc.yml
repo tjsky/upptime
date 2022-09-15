@@ -12,7 +12,7 @@ sites:
   - name: 反代4（tjsky-1.cf）
     url: https://api-pikpak.tjsky-1.cf/https://1.1.1.1/cdn-cgi/trace
   - name: 反代5（he****.ga）
-     url: https://pikpak.he13797739994.ga/https://1.1.1.1/cdn-cgi/trace
+    url: https://pikpak.he13797739994.ga/https://1.1.1.1/cdn-cgi/trace
   - name: 反代6（hdddd.me）
     url: https://pikpak.hdddd.me/https://1.1.1.1/cdn-cgi/trace
   - name: 反代7（yooyi.tk）
