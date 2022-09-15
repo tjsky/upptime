@@ -11,6 +11,18 @@ sites:
     url: https://api-pikpak.tjsky.cf/https://1.1.1.1/cdn-cgi/trace
   - name: 反代4（tjsky-1.cf）
     url: https://api-pikpak.tjsky-1.cf/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代5（he****.ga）
+     url: https://pikpak.he13797739994.ga/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代6（hdddd.me）
+    url: https://pikpak.hdddd.me/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代7（yooyi.tk）
+    url: https://pan.yooyi.tk/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代8（nsso.eu.org）
+    url: https://pikpak.nsso.eu.org/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代9（wnbh.cf）
+    url: https://pikpak-web.wnbh.cf/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代10（pikpakz.top）
+    url: https://pk.pikpakz.top/https://1.1.1.1/cdn-cgi/trace
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,3 +41,79 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: 活动事件
+  allSystemsOperational: 所有系统都可以正常运行
+  incidentReport: "事件 #$NUMBER 报告 →"
+  activeIncidentSummary: 在 $DATE 打开，有 $POSTS 个帖子
+  incidentTitle: 事件 $NUMBER 的详细信息
+  incidentDetails: 事件详细信息
+  incidentFixed: 已修复
+  incidentOngoing: 正在进行
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
+  incidentSubscribe: 订阅更新
+  incidentViewOnGitHub: 在 GitHub 上查看
+  incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
+  incidentBack: ← 返回所有事件
+  pastIncidents: 过去的事件
+  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 分钟内得到解决
+  liveStatus: 实时状态
+  overallUptime: "总体正常运行时间： $UPTIME"
+  overallUptimeTitle: 总体正常运行时间
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 7 天响应时间
+  responseTimeMs: 响应时间（毫秒）
+  ms: 毫秒
+  loading: 加载中
+  navGitHub: GitHub
+  footer: gd1214b保留所有权利。 Copyright © 2021 gd1214b. All Rights Reserved.
+  rateLimitExceededTitle: 超出速率限制
+  rateLimitExceededIntro: 您已超过一小时内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。
+  rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经消耗了这些请求。
+  rateLimitExceededErrorHowCanFix: 我该如何解决？
+  rateLimitExceededErrorFix: 您可以再等一个小时，您的 IP 地址限制将恢复。或者，您可以添加您的 GitHub 个人访问令牌，这将为您提供每小时额外 5,000 个请求。
+  rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
+  rateLimitExceededHasSet: 您有一个个人访问令牌集。
+  rateLimitExceededRemoveToken: 删除令牌
+  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+  rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
+  rateLimitExceededSaveToken: 保存令牌
+  errorTitle: 发生错误
+  errorIntro: 尝试获取最新状态详细信息时出错。
+  errorText: 您可以稍后再试。
+  errorHome: 转到主页
+  pastScheduledMaintenance: 过去的预定维护
+  scheduledMaintenance: 定期维护
+  scheduledMaintenanceSummaryStarted: 从 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 从 $DATE 开始，持续 $DURATION 分钟
+  startedAt: 开始在
+  startsAt: 开始于
+  duration: 持续时间
+  durationMin: $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 已预定
+  url: "链接"
+  status: "状态"
+  history: "历史"
+  responseTime: "响应时间"
+  uptime: "正常运行时间"
+  up: "🟩 正常运行"
+  degraded: "🟨 运行缓慢"
+  down: "🟥 停机"
+  responseTimeGraphAlt: "响应时间图像"
+  responseTimeDay: "24 小时响应时间"
+  responseTimeWeek: "7 天正常运行时间"
+  responseTimeMonth: "30天的正常运行时间"
+  responseTimeYear: "1年的正常运行时间"
+  uptimeDay: "24 小时正常运行时间"
+  uptimeWeek: "7 天正常运行时间"
+  uptimeMonth: "30天的正常运行时间"
+  uptimeYear: "1年的正常运行时间"
+  liveStatusHtmlComment: "<！ -实时状态- >"
+  degradedPerformance: "🟨 性能降低"
+  completeOutage: "🟥 全部停机"
+  partialOutage: "🟧 部分停机"
+
