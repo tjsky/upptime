@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **所有系统都可以正常运行**
+# [📈 Live Status](https://upptime.tjsky.net/): <!--live status--> **所有系统都可以正常运行**
 
 This repository contains the open-source uptime monitor and status page for [去年夏天](https://www.tjsky.net), powered by [Upptime](https://github.com/upptime/upptime).
 
