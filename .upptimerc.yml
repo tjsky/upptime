@@ -21,6 +21,10 @@ sites:
     url: https://pikpak-web.wnbh.cf/https://1.1.1.1/cdn-cgi/trace
   - name: 反代9（pikpakz.top）
     url: https://pk.pikpakz.top/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代10（123.cf）
+    url: https://cc123.cf/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代11（xswd.cf）
+    url: https://cf-api.xswd.cf/https://1.1.1.1/cdn-cgi/trace
   - name: SITE_MAIN
     url: $SITE_MAIN
   - name: SITE_PIC
@@ -44,7 +48,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** 是完全由GitHub驱动的开源网页状态及运行时间监视工具"
-  introMessage: pikpak三方网页版反代监控，以下反代地址均为从网络公开采集。
+  introMessage: 以下反代地址均为从网络公开采集。
   navbar:
     - title: Status
       href: /
@@ -81,7 +85,7 @@ i18n:
   ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
-  footer: gd1214b保留所有权利。 Copyright © 2021 gd1214b. All Rights Reserved.
+  footer: tjsky保留所有权利。 Copyright © 2022 tjsky. All Rights Reserved.
   rateLimitExceededTitle: 超出速率限制
   rateLimitExceededIntro: 您已超过一小时内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。
   rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经消耗了这些请求。
