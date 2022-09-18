@@ -39,6 +39,8 @@ sites:
     url: $SITE_SCREENS
   - name: SITE_TOK
     url: $SITE_TOK
+  - name: SITE_CF
+    url: $SITE_CF
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
