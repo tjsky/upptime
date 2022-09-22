@@ -135,3 +135,11 @@ i18n:
   completeOutage: "🟥 全部停机"
   partialOutage: "🟧 部分停机"
 
+workflowSchedule:
+  graphs: "53 6 * * *"
+  responseTime: "47 23 * * *"
+  staticSite: "43 6 * * *"
+  summary: "41 1 * * *"
+  updateTemplate: "37 2 * * *"
+  updates: "31 4 * * *"
+  uptime: "*/7 * * * *"
