@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 309,
     "timeDay": 348,
-    "timeWeek": 309,
+    "timeWeek": 322,
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {}
@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/api-pikpak.tjsky.cf",
     "slug": "2-tjsky-cf",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.99%",
     "uptimeDay": "92.65%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
     "time": 319,
     "timeDay": 304,
-    "timeWeek": 319,
+    "timeWeek": 322,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 350,
-    "timeWeek": 322,
+    "timeWeek": 326,
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {}
@@ -69,7 +69,7 @@
     "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 355,
-    "timeWeek": 406,
+    "timeWeek": 408,
     "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {}
@@ -105,7 +105,7 @@
     "uptimeYear": "100.00%",
     "time": 337,
     "timeDay": 290,
-    "timeWeek": 337,
+    "timeWeek": 275,
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 281,
-    "timeWeek": 269,
+    "timeWeek": 274,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {}
@@ -141,7 +141,7 @@
     "uptimeYear": "100.00%",
     "time": 738,
     "timeDay": 593,
-    "timeWeek": 738,
+    "timeWeek": 672,
     "timeMonth": 738,
     "timeYear": 738,
     "dailyMinutesDown": {}
@@ -159,7 +159,7 @@
     "uptimeYear": "100.00%",
     "time": 341,
     "timeDay": 328,
-    "timeWeek": 341,
+    "timeWeek": 343,
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {}
@@ -205,117 +205,129 @@
     "url": "$SITE_MAIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-main",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1115,
     "timeDay": 1040,
     "timeWeek": 1115,
     "timeMonth": 1115,
     "timeYear": 1115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 3
+    }
   },
   {
     "name": "SITE_PIC",
     "url": "$SITE_PIC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-pic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 694,
     "timeDay": 646,
     "timeWeek": 694,
     "timeMonth": 694,
     "timeYear": 694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 3
+    }
   },
   {
     "name": "SITE_RSS",
     "url": "$SITE_RSS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-rss",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 689,
     "timeDay": 648,
     "timeWeek": 689,
     "timeMonth": 689,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 2
+    }
   },
   {
     "name": "SITE_MS",
     "url": "$SITE_MS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-ms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 889,
     "timeDay": 822,
     "timeWeek": 889,
     "timeMonth": 889,
     "timeYear": 889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 2
+    }
   },
   {
     "name": "SITE_READ",
     "url": "$SITE_READ",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-read",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 687,
     "timeDay": 611,
     "timeWeek": 687,
     "timeMonth": 687,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 1
+    }
   },
   {
     "name": "SITE_SCREENS",
     "url": "$SITE_SCREENS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-screens",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 696,
     "timeDay": 629,
     "timeWeek": 696,
     "timeMonth": 696,
     "timeYear": 696,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 1
+    }
   },
   {
     "name": "SITE_TOK",
     "url": "$SITE_TOK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-tok",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -324,7 +336,9 @@
     "timeWeek": 688,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 0
+    }
   },
   {
     "name": "SITE_CF",
