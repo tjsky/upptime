@@ -21,6 +21,12 @@ sites:
     url: https://cc123.cf/https://1.1.1.1/cdn-cgi/trace
   - name: 反代11（xswd.cf）
     url: https://cf-api.xswd.cf/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代12（self.xyz）
+    url: https://pikpak.arielherself.xyz/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代13（nxcloud.uk）
+    url: https://f.nxcloud.uk/https://1.1.1.1/cdn-cgi/trace
+  - name: 反代14（tstream.net）
+    url: https://wkr.btstream.net/https://1.1.1.1/cdn-cgi/trace
   - name: SITE_MAIN
     url: $SITE_MAIN
   - name: SITE_PIC
