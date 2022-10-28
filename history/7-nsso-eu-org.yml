@@ -1,7 +1,7 @@
 url: https://pikpak.nsso.eu.org/https://1.1.1.1/cdn-cgi/trace
-status: up
-code: 200
-responseTime: 209
-lastUpdated: 2022-10-27T23:53:33.605Z
+status: down
+code: 429
+responseTime: 207
+lastUpdated: 2022-10-28T23:15:46.020Z
 startTime: Thu Sep 15 2022 09:36:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
