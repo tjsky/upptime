@@ -1,7 +1,7 @@
 url: $SITE_SCREENS
-status: up
-code: 200
-responseTime: 733
-lastUpdated: 2022-12-05T23:48:16.718Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-12-06T05:00:32.572Z
 startTime: Fri Sep 16 2022 13:36:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
