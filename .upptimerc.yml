@@ -56,8 +56,6 @@ sites:
     url: $SITE_RSS
   - name: SITE_MS
     url: $SITE_MS
-  - name: SITE_READ
-    url: $SITE_READ
   - name: SITE_SCREENS
     url: $SITE_SCREENS
   - name: SITE_TOK
