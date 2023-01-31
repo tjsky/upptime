@@ -36,9 +36,6 @@ sites:
   - name: 反代15（mant.me）
     url: https://dns.firmant.me/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png
-  - name: 反代16（obiz.cn）
-    url: https://p.emobiz.cn/https://1.1.1.1/cdn-cgi/trace
-    icon: https://mypikpak.com/apple-touch-icon.png
   - name: 反代17（-s.online）
     url: https://pikpak.yang-s.online/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png
