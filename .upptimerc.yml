@@ -58,7 +58,7 @@ sites:
     url: $SITE_CF
   - name: SITE_AUTO
     url: $SITE_AUTO
-  - name:SITE_OPENAI
+  - name: SITE_OPENAI
     url: $SITE_OPENAI
     
     
