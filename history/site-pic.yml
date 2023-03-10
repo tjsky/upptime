@@ -1,7 +1,7 @@
 url: $SITE_PIC
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-10T05:30:43.009Z
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2023-03-10T05:37:22.488Z
 startTime: Fri Sep 16 2022 13:36:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
