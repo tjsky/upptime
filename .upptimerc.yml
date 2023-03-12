@@ -45,7 +45,7 @@ sites:
   - name: 下载0393（pikpakz.top）
     icon: https://mypikpak.com/apple-touch-icon.png
     check: "tcp-ping"
-    url: http://dl-a10b-0393.mypikpak.com
+    url: dl-a10b-0393.mypikpak.com
     port: 80
     
     
