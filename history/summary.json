@@ -424,19 +424,17 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0393-pikpakz-top",
     "status": "up",
-    "uptime": "4.81%",
-    "uptimeDay": "4.81%",
-    "uptimeWeek": "4.81%",
-    "uptimeMonth": "4.81%",
-    "uptimeYear": "4.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 232,
     "timeWeek": 232,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {
-      "2023-03-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SITE_MAIN",
