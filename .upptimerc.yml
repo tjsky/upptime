@@ -47,6 +47,51 @@ sites:
     check: "tcp-ping"
     url: dl-a10b-0393.mypikpak.com
     port: 80
+  - name: 下载0394（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0394.mypikpak.com
+    port: 80
+  - name: 下载0395（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0395.mypikpak.com
+    port: 80
+  - name: 下载0480（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0480.mypikpak.com
+    port: 80
+  - name: 下载0481（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0481.mypikpak.com
+    port: 80
+  - name: 下载0482（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0482.mypikpak.com
+    port: 80
+  - name: 下载0483（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0483.mypikpak.com
+    port: 80
+  - name: 下载0484（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0484.mypikpak.com
+    port: 80
+  - name: 下载0469（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0469.mypikpak.com
+    port: 80
+  - name: 下载0470（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
+    check: "tcp-ping"
+    url: dl-a10b-0470.mypikpak.com
+    port: 80
     
     
     
