@@ -424,18 +424,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl-a10b-0393.mypikpak.com.ico",
     "slug": "0393-pikpakz-top",
     "status": "down",
-    "uptime": "3.33%",
-    "uptimeDay": "3.33%",
-    "uptimeWeek": "3.33%",
-    "uptimeMonth": "3.33%",
-    "uptimeYear": "3.33%",
+    "uptime": "1.74%",
+    "uptimeDay": "1.74%",
+    "uptimeWeek": "1.74%",
+    "uptimeMonth": "1.74%",
+    "uptimeYear": "1.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-12": 0
+      "2023-03-12": 1
     }
   },
   {
