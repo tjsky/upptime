@@ -43,9 +43,10 @@ sites:
     url: https://pikpak.520936.xyz/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png
   - name: 下载0393（pikpakz.top）
+    icon: https://mypikpak.com/apple-touch-icon.png
     check: "tcp-ping"
-    url: https://dl-a10b-0393.mypikpak.com
-    port: 443
+    url: http://dl-a10b-0393.mypikpak.com
+    port: 80
     
     
     
