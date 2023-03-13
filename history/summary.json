@@ -441,18 +441,20 @@
     "url": "https://dl-a10b-0394.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0394",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
     "time": 781,
     "timeDay": 781,
     "timeWeek": 781,
     "timeMonth": 781,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-13": 1
+    }
   },
   {
     "name": "下载0395",
