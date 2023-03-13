@@ -256,7 +256,7 @@
     "status": "up",
     "uptime": "98.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.85%",
+    "uptimeWeek": "92.08%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.83%",
     "time": 102,
@@ -441,19 +441,19 @@
     "url": "https://dl-a10b-0394.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0394",
-    "status": "up",
-    "uptime": "69.61%",
-    "uptimeDay": "69.61%",
-    "uptimeWeek": "69.61%",
-    "uptimeMonth": "69.61%",
-    "uptimeYear": "69.61%",
+    "status": "down",
+    "uptime": "91.60%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "91.60%",
+    "uptimeMonth": "91.60%",
+    "uptimeYear": "91.60%",
     "time": 748,
     "timeDay": 748,
     "timeWeek": 748,
     "timeMonth": 748,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2023-03-13": 19
+      "2023-03-13": 20
     }
   },
   {
