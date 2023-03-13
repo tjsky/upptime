@@ -45,70 +45,70 @@ sites:
 
   - name: 下载0393
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0393.mypikpak.com
+    url: https://dl-a10b-0393.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0394
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0394.mypikpak.com
+    url: https://dl-a10b-0394.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0395
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0395.mypikpak.com
+    url: https://dl-a10b-0395.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0480
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0480.mypikpak.com
+    url: https://dl-a10b-0480.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0481
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0481.mypikpak.com
+    url: https://dl-a10b-0481.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0482
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0482.mypikpak.com
+    url: https://dl-a10b-0482.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0483
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0483.mypikpak.com
+    url: https://dl-a10b-0483.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0484
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0484.mypikpak.com
+    url: https://dl-a10b-0484.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0469
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0469.mypikpak.com
+    url: https://dl-a10b-0469.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: 下载0470
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https:// dl-a10b-0470.mypikpak.com
+    url: https://dl-a10b-0470.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
