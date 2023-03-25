@@ -490,18 +490,18 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0480",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 823,
     "timeDay": 943,
     "timeWeek": 824,
     "timeMonth": 823,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2023-03-25": 1
+      "2023-03-25": 25
     }
   },
   {
@@ -570,18 +570,18 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0484",
     "status": "down",
-    "uptime": "97.10%",
-    "uptimeDay": "67.87%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "97.10%",
+    "uptime": "96.96%",
+    "uptimeDay": "66.23%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
     "time": 2133,
     "timeDay": 5994,
     "timeWeek": 2697,
     "timeMonth": 2133,
     "timeYear": 2133,
     "dailyMinutesDown": {
-      "2023-03-25": 119,
+      "2023-03-25": 143,
       "2023-03-24": 343,
       "2023-03-23": 25
     }
