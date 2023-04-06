@@ -323,18 +323,18 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "13-nxcloud-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 131,
     "timeDay": 67,
     "timeWeek": 97,
     "timeMonth": 107,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-04-06": 1
+      "2023-04-06": 26
     }
   },
   {
@@ -579,11 +579,11 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0484",
     "status": "up",
-    "uptime": "90.08%",
+    "uptime": "90.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.08%",
-    "uptimeYear": "90.08%",
+    "uptimeMonth": "90.09%",
+    "uptimeYear": "90.09%",
     "time": 1736,
     "timeDay": 940,
     "timeWeek": 795,
@@ -620,10 +620,10 @@
     "url": "https://dl-a10b-0470.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0470",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 814,
@@ -631,7 +631,9 @@
     "timeWeek": 796,
     "timeMonth": 814,
     "timeYear": 814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-06": 1
+    }
   },
   {
     "name": "SITE_MAIN",
@@ -929,11 +931,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-auto",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 642,
     "timeDay": 717,
     "timeWeek": 626,
