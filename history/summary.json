@@ -276,7 +276,7 @@
     "time": 134,
     "timeDay": 525,
     "timeWeek": 581,
-    "timeMonth": 544,
+    "timeMonth": 553,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2023-03-07": 161,
@@ -324,9 +324,9 @@
     "slug": "13-nxcloud-uk",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "23.13%",
-    "uptimeWeek": "89.02%",
-    "uptimeMonth": "97.47%",
+    "uptimeDay": "22.67%",
+    "uptimeWeek": "88.95%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.55%",
     "time": 131,
     "timeDay": 97,
@@ -334,7 +334,7 @@
     "timeMonth": 105,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-04-07": 160,
+      "2023-04-07": 166,
       "2023-04-06": 947
     }
   },
@@ -621,19 +621,19 @@
     "url": "https://dl-a10b-0470.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0470",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 871,
-    "timeWeek": 830,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 824,
+    "timeDay": 889,
+    "timeWeek": 842,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 7
     }
   },
   {
