@@ -21,12 +21,6 @@ sites:
   - name: 反代11（xswd.cf）
     url: https://cf-api.xswd.cf/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png
-  - name: 反代12（self.xyz）
-    url: https://pikpak.arielherself.xyz/https://1.1.1.1/cdn-cgi/trace
-    icon: https://mypikpak.com/apple-touch-icon.png
-  - name: 反代13（nxcloud.uk）
-    url: https://f.nxcloud.uk/https://1.1.1.1/cdn-cgi/trace
-    icon: https://mypikpak.com/apple-touch-icon.png
   - name: 反代14（tstream.net）
     url: https://wkr.btstream.net/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png
@@ -122,8 +116,6 @@ sites:
     url: $SITE_RSS
   - name: SITE_MS
     url: $SITE_MS
-  - name: SITE_SCREENS
-    url: $SITE_SCREENS
   - name: SITE_TOK
     url: $SITE_TOK
   - name: SITE_CF
