@@ -382,9 +382,9 @@
     "url": "https://dl-a10b-0394.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0394",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.38%",
@@ -394,6 +394,7 @@
     "timeMonth": 926,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2023-04-14": 1,
       "2023-04-12": 20,
       "2023-04-11": 29,
       "2023-04-10": 17,
@@ -559,7 +560,7 @@
     "uptimeYear": "100.00%",
     "time": 837,
     "timeDay": 703,
-    "timeWeek": 891,
+    "timeWeek": 888,
     "timeMonth": 836,
     "timeYear": 837,
     "dailyMinutesDown": {}
