@@ -1,7 +1,7 @@
 url: https://api-pikpak.tjsky.cf/https://1.1.1.1/cdn-cgi/trace
-status: down
-code: 429
-responseTime: 568
-lastUpdated: 2023-04-21T23:57:06.512Z
+status: up
+code: 200
+responseTime: 345
+lastUpdated: 2023-04-22T00:55:31.221Z
 startTime: Thu Sep 15 2022 09:36:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
