@@ -30,7 +30,13 @@ sites:
   - name: 反代19（936.xyz）
     url: https://pikpak.520936.xyz/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png
-
+  - name: 反代20（oud.uk）
+    url: https://f.nxcloud.uk/https://1.1.1.1/cdn-cgi/trace
+    icon: https://mypikpak.com/apple-touch-icon.png
+  - name: 反代21（go-back.cf）
+    url: https://pikpak-api.go-back.cf/https://1.1.1.1/cdn-cgi/trace
+    icon: https://mypikpak.com/apple-touch-icon.png    
+    
   - name: 下载0393
     icon: https://mypikpak.com/apple-touch-icon.png
     url: https://dl-a10b-0393.mypikpak.com
