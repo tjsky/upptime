@@ -1,7 +1,7 @@
 url: $SITE_OPENAI
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-07-07T06:19:25.988Z
+code: 502
+responseTime: 732
+lastUpdated: 2023-07-07T23:48:38.773Z
 startTime: Fri Mar 03 2023 13:45:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
