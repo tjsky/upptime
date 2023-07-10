@@ -34,6 +34,13 @@ sites:
     url: https://pikpak-api.go-back.cf/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png    
     
+  - name: P-API
+    icon: https://mypikpak.com/apple-touch-icon.png
+    url: https://api-drive.mypikpak.com/drive/v1/files
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401  
   - name: 下载0393
     icon: https://mypikpak.com/apple-touch-icon.png
     url: https://dl-a10b-0393.mypikpak.com
