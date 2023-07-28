@@ -323,10 +323,10 @@
     "url": "https://api-drive.mypikpak.net/drive/v1/files",
     "icon": "https://mypikpak.net/apple-touch-icon.png",
     "slug": "p-api-n",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "76.53%",
-    "uptimeWeek": "96.65%",
+    "uptimeDay": "76.47%",
+    "uptimeWeek": "96.64%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "98.61%",
     "time": 920,
@@ -335,7 +335,7 @@
     "timeMonth": 920,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2023-07-28": 338
+      "2023-07-28": 339
     }
   },
   {
