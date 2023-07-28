@@ -139,11 +139,11 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "3-tjsky-1-cf",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 439,
     "timeDay": 250,
     "timeWeek": 256,
@@ -323,19 +323,19 @@
     "url": "https://api-drive.mypikpak.net/drive/v1/files",
     "icon": "https://mypikpak.net/apple-touch-icon.png",
     "slug": "p-api-n",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "87.65%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
     "time": 923,
     "timeDay": 887,
     "timeWeek": 925,
     "timeMonth": 923,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-07-28": 176
+      "2023-07-28": 177
     }
   },
   {
@@ -365,10 +365,10 @@
     "url": "https://mypikpak.net/",
     "icon": "https://mypikpak.net/apple-touch-icon.png",
     "slug": "p-n",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "88.53%",
-    "uptimeWeek": "98.11%",
+    "uptimeDay": "88.47%",
+    "uptimeWeek": "98.10%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.21%",
     "time": 2018,
@@ -377,7 +377,7 @@
     "timeMonth": 2018,
     "timeYear": 2018,
     "dailyMinutesDown": {
-      "2023-07-28": 165,
+      "2023-07-28": 166,
       "2023-07-21": 25
     }
   },
