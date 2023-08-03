@@ -72,23 +72,23 @@ sites:
       - 200
       - 201
       - 403
-  - name: 下载0393
+  - name: 下载1393
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https://dl-a10b-0393.mypikpak.com
+    url: https://dl-a10b-1393.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
-  - name: 下载0394
+  - name: 下载1394
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https://dl-a10b-0394.mypikpak.com
+    url: https://dl-a10b-1394.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
-  - name: 下载0395
+  - name: 下载1395
     icon: https://mypikpak.com/apple-touch-icon.png
-    url: https://dl-a10b-0395.mypikpak.com
+    url: https://dl-a10b-1395.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
