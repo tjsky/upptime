@@ -26,10 +26,7 @@ sites:
     icon: https://mypikpak.com/apple-touch-icon.png
   - name: 反代19（936.xyz）
     url: https://pikpak.520936.xyz/https://1.1.1.1/cdn-cgi/trace
-    icon: https://mypikpak.com/apple-touch-icon.png
-  - name: 反代21（go-back.cf）
-    url: https://pikpak-api.go-back.cf/https://1.1.1.1/cdn-cgi/trace
-    icon: https://mypikpak.com/apple-touch-icon.png    
+    icon: https://mypikpak.com/apple-touch-icon.png   
     
   - name: P-API-C
     icon: https://mypikpak.com/apple-touch-icon.png
