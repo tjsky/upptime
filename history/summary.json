@@ -197,10 +197,10 @@
     "url": "https://cc123.cf/https://1.1.1.1/cdn-cgi/trace",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "10-123-cf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
@@ -208,7 +208,9 @@
     "timeWeek": 268,
     "timeMonth": 543,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 1
+    }
   },
   {
     "name": "反代11（xswd.cf）",
@@ -290,11 +292,11 @@
     "icon": "https://mypikpak.net/apple-touch-icon.png",
     "slug": "p-api-n",
     "status": "up",
-    "uptime": "97.25%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.99%",
-    "uptimeYear": "97.25%",
+    "uptimeYear": "97.26%",
     "time": 890,
     "timeDay": 973,
     "timeWeek": 927,
