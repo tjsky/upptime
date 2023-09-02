@@ -27,7 +27,9 @@ sites:
   - name: 反代21（zemon.xyz）
     url: https://darazemon.xyz/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png     
-
+  - name: 反代22（579.xyz）
+    url: https://pikpak.995579.xyz/https://1.1.1.1/cdn-cgi/trace
+    icon: https://mypikpak.com/apple-touch-icon.png
     
   - name: P-API-C
     icon: https://mypikpak.com/apple-touch-icon.png
