@@ -24,6 +24,10 @@ sites:
   - name: 反代20（stream.net）
     url: https://wkr.btstream.net/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png     
+  - name: 反代21（zemon.xyz）
+    url: https://darazemon.xyz/https://1.1.1.1/cdn-cgi/trace
+    icon: https://mypikpak.com/apple-touch-icon.png     
+
     
   - name: P-API-C
     icon: https://mypikpak.com/apple-touch-icon.png
