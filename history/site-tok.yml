@@ -1,7 +1,7 @@
 url: $SITE_TOK
-status: down
-code: 502
-responseTime: 3806
-lastUpdated: 2023-09-22T07:19:45.138Z
+status: up
+code: 200
+responseTime: 649
+lastUpdated: 2023-09-22T07:57:34.708Z
 startTime: 2022-09-16T13:36:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
