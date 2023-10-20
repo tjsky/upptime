@@ -5,7 +5,7 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "1-diii-tk",
     "status": "down",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -31,15 +31,15 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "2-tjsky-cf",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.44%",
     "time": 439,
-    "timeDay": 387,
-    "timeWeek": 358,
-    "timeMonth": 328,
+    "timeDay": 254,
+    "timeWeek": 350,
+    "timeMonth": 326,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2023-09-03": 48,
@@ -142,9 +142,9 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.71%",
     "time": 430,
-    "timeDay": 240,
-    "timeWeek": 338,
-    "timeMonth": 445,
+    "timeDay": 303,
+    "timeWeek": 331,
+    "timeMonth": 446,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2023-10-12": 45,
@@ -197,10 +197,10 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "11-xswd-cf",
     "status": "down",
-    "uptime": "92.63%",
+    "uptime": "92.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.15%",
+    "uptimeMonth": "39.43%",
     "uptimeYear": "92.01%",
     "time": 430,
     "timeDay": 0,
@@ -252,9 +252,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 124,
-    "timeWeek": 93,
-    "timeMonth": 96,
+    "timeDay": 120,
+    "timeWeek": 94,
+    "timeMonth": 97,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -270,9 +270,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 94,
-    "timeWeek": 69,
-    "timeMonth": 77,
+    "timeDay": 102,
+    "timeWeek": 74,
+    "timeMonth": 78,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -288,8 +288,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 15,
-    "timeDay": 17,
-    "timeWeek": 14,
+    "timeDay": 23,
+    "timeWeek": 15,
     "timeMonth": 15,
     "timeYear": 15,
     "dailyMinutesDown": {}
@@ -305,11 +305,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 126,
-    "timeWeek": 101,
-    "timeMonth": 94,
-    "timeYear": 96,
+    "time": 97,
+    "timeDay": 130,
+    "timeWeek": 106,
+    "timeMonth": 96,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   },
   {
@@ -324,9 +324,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 102,
-    "timeWeek": 108,
-    "timeMonth": 118,
+    "timeDay": 100,
+    "timeWeek": 110,
+    "timeMonth": 115,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -341,11 +341,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 799,
-    "timeDay": 1138,
-    "timeWeek": 941,
-    "timeMonth": 795,
-    "timeYear": 799,
+    "time": 803,
+    "timeDay": 1162,
+    "timeWeek": 960,
+    "timeMonth": 824,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2023-08-27": 15
     }
@@ -356,15 +356,15 @@
     "icon": "https://mypikpak.net/apple-touch-icon.png",
     "slug": "p-api-n",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.65%",
     "time": 897,
-    "timeDay": 857,
-    "timeWeek": 944,
-    "timeMonth": 908,
+    "timeDay": 875,
+    "timeWeek": 921,
+    "timeMonth": 906,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2023-08-20": 90,
@@ -391,11 +391,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2013,
-    "timeDay": 2122,
-    "timeWeek": 1982,
-    "timeMonth": 1926,
-    "timeYear": 2013,
+    "time": 2015,
+    "timeDay": 2222,
+    "timeWeek": 2010,
+    "timeMonth": 1934,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2023-08-27": 15,
       "2023-07-21": 25,
@@ -409,16 +409,16 @@
     "icon": "https://mypikpak.net/apple-touch-icon.png",
     "slug": "p-n",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 1809,
-    "timeDay": 1636,
-    "timeWeek": 1771,
-    "timeMonth": 1730,
-    "timeYear": 1809,
+    "uptimeYear": "99.76%",
+    "time": 1808,
+    "timeDay": 1699,
+    "timeWeek": 1737,
+    "timeMonth": 1722,
+    "timeYear": 1808,
     "dailyMinutesDown": {
       "2023-07-28": 325,
       "2023-07-21": 25
@@ -438,7 +438,7 @@
     "time": 929,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1206,
+    "timeMonth": 1220,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2023-10-08": 173
@@ -458,7 +458,7 @@
     "time": 931,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1188,
+    "timeMonth": 1202,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2023-10-08": 172
@@ -478,7 +478,7 @@
     "time": 971,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1188,
+    "timeMonth": 1200,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2023-10-08": 172
@@ -498,7 +498,7 @@
     "time": 844,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 835,
+    "timeMonth": 829,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2023-10-08": 172
@@ -518,7 +518,7 @@
     "time": 850,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 853,
+    "timeMonth": 847,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2023-10-08": 171
@@ -538,7 +538,7 @@
     "time": 848,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 837,
+    "timeMonth": 830,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2023-10-08": 171
@@ -550,18 +550,19 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0469",
     "status": "down",
-    "uptime": "96.04%",
+    "uptime": "95.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.38%",
-    "uptimeYear": "96.04%",
+    "uptimeMonth": "68.10%",
+    "uptimeYear": "95.60%",
     "time": 873,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1075,
+    "timeMonth": 1082,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2023-10-19": 128,
+      "2023-10-20": 128,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -587,7 +588,7 @@
     "time": 872,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 833,
+    "timeMonth": 826,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2023-10-08": 170
@@ -607,7 +608,7 @@
     "time": 1001,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 836,
+    "timeMonth": 832,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2023-10-08": 170,
@@ -632,7 +633,7 @@
     "time": 927,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1174,
+    "timeMonth": 1188,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2023-10-08": 169,
@@ -655,7 +656,7 @@
     "time": 880,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1165,
+    "timeMonth": 1177,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2023-10-08": 169
@@ -675,7 +676,7 @@
     "time": 901,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1178,
+    "timeMonth": 1189,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2023-10-08": 168,
@@ -696,7 +697,7 @@
     "time": 982,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 824,
+    "timeMonth": 818,
     "timeYear": 982,
     "dailyMinutesDown": {
       "2023-10-08": 168,
@@ -722,7 +723,7 @@
     "time": 904,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1164,
+    "timeMonth": 1176,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2023-10-08": 167
@@ -742,7 +743,7 @@
     "time": 906,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1176,
+    "timeMonth": 1178,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2023-10-08": 167
@@ -762,7 +763,7 @@
     "time": 905,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1171,
+    "timeMonth": 1182,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2023-10-08": 166
@@ -774,15 +775,15 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0590",
     "status": "down",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 904,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1165,
+    "timeMonth": 1178,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2023-10-08": 166
@@ -794,15 +795,15 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0591",
     "status": "down",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 900,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1169,
+    "timeMonth": 1180,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2023-10-08": 165
@@ -814,15 +815,15 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0592",
     "status": "down",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 900,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1171,
+    "timeMonth": 1181,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2023-10-08": 165
@@ -842,7 +843,7 @@
     "time": 902,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1172,
+    "timeMonth": 1184,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2023-10-08": 165
@@ -862,7 +863,7 @@
     "time": 903,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1180,
+    "timeMonth": 1191,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2023-10-08": 164
@@ -882,7 +883,7 @@
     "time": 904,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1171,
+    "timeMonth": 1180,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2023-10-08": 164
@@ -902,7 +903,7 @@
     "time": 916,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1184,
+    "timeMonth": 1199,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2023-10-08": 163
@@ -922,7 +923,7 @@
     "time": 900,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1165,
+    "timeMonth": 1178,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2023-10-08": 163
@@ -940,9 +941,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 412,
-    "timeWeek": 439,
-    "timeMonth": 431,
+    "timeDay": 424,
+    "timeWeek": 432,
+    "timeMonth": 429,
     "timeYear": 427,
     "dailyMinutesDown": {}
   },
@@ -958,9 +959,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
-    "timeDay": 412,
-    "timeWeek": 441,
-    "timeMonth": 430,
+    "timeDay": 416,
+    "timeWeek": 433,
+    "timeMonth": 428,
     "timeYear": 429,
     "dailyMinutesDown": {}
   },
@@ -976,9 +977,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
-    "timeDay": 395,
-    "timeWeek": 435,
-    "timeMonth": 429,
+    "timeDay": 410,
+    "timeWeek": 426,
+    "timeMonth": 427,
     "timeYear": 426,
     "dailyMinutesDown": {}
   },
@@ -994,9 +995,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
-    "timeDay": 430,
-    "timeWeek": 442,
-    "timeMonth": 429,
+    "timeDay": 412,
+    "timeWeek": 433,
+    "timeMonth": 427,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -1012,9 +1013,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
-    "timeDay": 394,
-    "timeWeek": 441,
-    "timeMonth": 432,
+    "timeDay": 411,
+    "timeWeek": 432,
+    "timeMonth": 430,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -1029,10 +1030,10 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.72%",
-    "time": 1177,
-    "timeDay": 1142,
-    "timeWeek": 1165,
-    "timeMonth": 1132,
+    "time": 1176,
+    "timeDay": 1148,
+    "timeWeek": 1154,
+    "timeMonth": 1129,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2023-10-14": 25,
@@ -1069,8 +1070,7 @@
       "2022-11-24": 28,
       "2022-11-19": 20,
       "2022-11-17": 34,
-      "2022-11-10": 33,
-      "2022-10-20": 42
+      "2022-11-10": 33
     }
   },
   {
@@ -1085,9 +1085,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.74%",
     "time": 694,
-    "timeDay": 660,
-    "timeWeek": 694,
-    "timeMonth": 688,
+    "timeDay": 689,
+    "timeWeek": 682,
+    "timeMonth": 685,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2023-10-14": 25,
@@ -1122,8 +1122,7 @@
       "2022-11-19": 20,
       "2022-11-17": 34,
       "2022-11-10": 33,
-      "2022-11-03": 20,
-      "2022-10-20": 42
+      "2022-11-03": 20
     }
   },
   {
@@ -1138,9 +1137,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.67%",
     "time": 717,
-    "timeDay": 630,
-    "timeWeek": 672,
-    "timeMonth": 667,
+    "timeDay": 680,
+    "timeWeek": 669,
+    "timeMonth": 665,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2023-10-14": 24,
@@ -1172,8 +1171,7 @@
       "2022-12-04": 32,
       "2022-11-19": 20,
       "2022-11-17": 33,
-      "2022-11-10": 32,
-      "2022-10-20": 41
+      "2022-11-10": 32
     }
   },
   {
@@ -1187,10 +1185,10 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.76%",
-    "time": 890,
-    "timeDay": 722,
-    "timeWeek": 709,
-    "timeMonth": 721,
+    "time": 889,
+    "timeDay": 685,
+    "timeWeek": 702,
+    "timeMonth": 717,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2023-10-14": 24,
@@ -1221,8 +1219,7 @@
       "2022-11-19": 19,
       "2022-11-17": 33,
       "2022-11-10": 32,
-      "2022-11-06": 15,
-      "2022-10-20": 41
+      "2022-11-06": 15
     }
   },
   {
@@ -1231,18 +1228,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-tok",
     "status": "down",
-    "uptime": "92.51%",
+    "uptime": "92.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.78%",
-    "uptimeMonth": "80.80%",
-    "uptimeYear": "91.86%",
+    "uptimeWeek": "43.49%",
+    "uptimeMonth": "77.52%",
+    "uptimeYear": "91.59%",
     "time": 818,
     "timeDay": 0,
-    "timeWeek": 686,
-    "timeMonth": 1044,
-    "timeYear": 832,
+    "timeWeek": 679,
+    "timeMonth": 1053,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-10-19": 129,
+      "2023-10-20": 129,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1224,
@@ -1311,8 +1309,7 @@
       "2022-11-10": 30,
       "2022-11-04": 99,
       "2022-11-03": 560,
-      "2022-10-26": 36,
-      "2022-10-20": 40
+      "2022-10-26": 36
     }
   },
   {
@@ -1327,9 +1324,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 278,
-    "timeWeek": 274,
-    "timeMonth": 265,
+    "timeDay": 243,
+    "timeWeek": 271,
+    "timeMonth": 263,
     "timeYear": 381,
     "dailyMinutesDown": {}
   },
@@ -1344,11 +1341,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
-    "time": 660,
-    "timeDay": 629,
-    "timeWeek": 651,
-    "timeMonth": 649,
-    "timeYear": 660,
+    "time": 659,
+    "timeDay": 625,
+    "timeWeek": 640,
+    "timeMonth": 646,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2023-10-14": 23,
       "2023-08-01": 28,
@@ -1367,15 +1364,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-openai",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "90.47%",
-    "uptimeYear": "95.47%",
+    "uptimeYear": "95.49%",
     "time": 707,
-    "timeDay": 679,
-    "timeWeek": 666,
-    "timeMonth": 657,
+    "timeDay": 629,
+    "timeWeek": 654,
+    "timeMonth": 653,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2023-10-14": 22,
