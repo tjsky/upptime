@@ -1,7 +1,7 @@
 url: $SITE_OPENAI
-status: down
-code: 502
-responseTime: 733
-lastUpdated: 2023-10-27T23:49:08.738Z
+status: up
+code: 200
+responseTime: 684
+lastUpdated: 2023-10-28T01:36:10.484Z
 startTime: 2023-03-03T13:45:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
