@@ -1,7 +1,7 @@
 url: $SITE_AUTO
-status: up
-code: 200
-responseTime: 727
-lastUpdated: 2023-12-28T23:48:23.593Z
+status: down
+code: 502
+responseTime: 1775
+lastUpdated: 2023-12-29T02:36:34.951Z
 startTime: 2023-03-03T13:44:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
