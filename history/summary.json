@@ -136,9 +136,9 @@
     "url": "https://darazemon.xyz/https://1.1.1.1/cdn-cgi/trace",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "21-zemon-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "99.32%",
@@ -148,6 +148,7 @@
     "timeMonth": 83,
     "timeYear": 87,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2024-01-15": 54,
       "2024-01-14": 505,
       "2024-01-13": 518,
@@ -375,7 +376,7 @@
     "uptimeYear": "99.80%",
     "time": 1174,
     "timeDay": 1356,
-    "timeWeek": 1229,
+    "timeWeek": 1234,
     "timeMonth": 1382,
     "timeYear": 1173,
     "dailyMinutesDown": {
@@ -422,7 +423,7 @@
     "uptimeYear": "99.82%",
     "time": 693,
     "timeDay": 741,
-    "timeWeek": 708,
+    "timeWeek": 711,
     "timeMonth": 692,
     "timeYear": 699,
     "dailyMinutesDown": {
@@ -464,7 +465,7 @@
     "uptimeYear": "99.74%",
     "time": 717,
     "timeDay": 748,
-    "timeWeek": 737,
+    "timeWeek": 730,
     "timeMonth": 708,
     "timeYear": 691,
     "dailyMinutesDown": {
@@ -505,7 +506,7 @@
     "uptimeYear": "99.83%",
     "time": 862,
     "timeDay": 785,
-    "timeWeek": 763,
+    "timeWeek": 757,
     "timeMonth": 749,
     "timeYear": 840,
     "dailyMinutesDown": {
@@ -563,7 +564,7 @@
     "uptimeYear": "99.90%",
     "time": 666,
     "timeDay": 793,
-    "timeWeek": 686,
+    "timeWeek": 682,
     "timeMonth": 674,
     "timeYear": 666,
     "dailyMinutesDown": {
@@ -594,7 +595,7 @@
     "uptimeYear": "96.65%",
     "time": 703,
     "timeDay": 732,
-    "timeWeek": 693,
+    "timeWeek": 684,
     "timeMonth": 702,
     "timeYear": 703,
     "dailyMinutesDown": {
