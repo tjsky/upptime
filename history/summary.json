@@ -5,18 +5,18 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "2-tjsky-cf",
     "status": "down",
-    "uptime": "94.54%",
+    "uptime": "94.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.50%",
-    "uptimeYear": "94.50%",
+    "uptimeMonth": "40.22%",
+    "uptimeYear": "94.47%",
     "time": 445,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 561,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-02-25": 336,
+      "2024-02-25": 457,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -71,18 +71,18 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "3-tjsky-1-cf",
     "status": "down",
-    "uptime": "95.55%",
+    "uptime": "95.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.30%",
-    "uptimeYear": "94.69%",
+    "uptimeMonth": "40.03%",
+    "uptimeYear": "94.67%",
     "time": 465,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 682,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2024-02-25": 336,
+      "2024-02-25": 457,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -299,11 +299,11 @@
     "url": "http://dl-a10b-0621.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0621",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
     "timeDay": 517,
@@ -311,7 +311,7 @@
     "timeMonth": 608,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-02-25": 11
+      "2024-02-25": 1
     }
   },
   {
@@ -321,18 +321,16 @@
     "slug": "0622",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 504,
     "timeWeek": 508,
     "timeMonth": 503,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2024-02-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "下载0623",
@@ -341,29 +339,27 @@
     "slug": "0623",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
     "timeDay": 508,
     "timeWeek": 522,
     "timeMonth": 510,
     "timeYear": 469,
-    "dailyMinutesDown": {
-      "2024-02-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "下载0624",
     "url": "http://dl-a10b-0624.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0624",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
     "timeDay": 521,
@@ -371,7 +367,7 @@
     "timeMonth": 514,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2024-02-25": 11
+      "2024-02-25": 0
     }
   },
   {
@@ -379,11 +375,11 @@
     "url": "http://dl-a10b-0625.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0625",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
     "timeDay": 516,
@@ -391,7 +387,7 @@
     "timeMonth": 503,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-02-25": 11
+      "2024-02-25": 0
     }
   },
   {
@@ -546,18 +542,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-cf",
     "status": "down",
-    "uptime": "96.54%",
+    "uptime": "96.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.28%",
-    "uptimeYear": "95.02%",
+    "uptimeMonth": "40.00%",
+    "uptimeYear": "95.00%",
     "time": 418,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 513,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-02-25": 336,
+      "2024-02-25": 457,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
