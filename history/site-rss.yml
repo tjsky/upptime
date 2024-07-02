@@ -1,7 +1,7 @@
 url: $SITE_RSS
-status: down
-code: 502
-responseTime: 773
-lastUpdated: 2024-07-02T06:46:12.425Z
+status: up
+code: 200
+responseTime: 622
+lastUpdated: 2024-07-02T07:28:08.763Z
 startTime: 2022-09-16T13:36:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
