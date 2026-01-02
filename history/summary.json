@@ -284,19 +284,19 @@
     "url": "http://dl-a10b-0622.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0622",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "35.20%",
-    "uptimeWeek": "35.64%",
-    "uptimeMonth": "83.39%",
+    "uptimeDay": "35.13%",
+    "uptimeWeek": "35.74%",
+    "uptimeMonth": "83.43%",
     "uptimeYear": "98.62%",
     "time": 1516,
-    "timeDay": 1150,
-    "timeWeek": 1167,
-    "timeMonth": 1176,
-    "timeYear": 1572,
+    "timeDay": 1129,
+    "timeWeek": 1164,
+    "timeMonth": 1175,
+    "timeYear": 1571,
     "dailyMinutesDown": {
-      "2026-01-02": 349,
+      "2026-01-02": 350,
       "2026-01-01": 1019,
       "2025-12-31": 1017,
       "2025-12-30": 921,
@@ -304,7 +304,7 @@
       "2025-12-28": 915,
       "2025-12-27": 955,
       "2025-12-26": 688,
-      "2025-12-25": 519
+      "2025-12-25": 500
     }
   },
   {
@@ -404,7 +404,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "97.88%",
-    "uptimeYear": "80.74%",
+    "uptimeYear": "80.75%",
     "time": 3447,
     "timeDay": 7938,
     "timeWeek": 5464,
@@ -511,7 +511,7 @@
     "timeMonth": 5930,
     "timeYear": 4345,
     "dailyMinutesDown": {
-      "2026-01-02": 642,
+      "2026-01-02": 653,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -1000,7 +1000,7 @@
     "timeMonth": 758,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2026-01-02": 643,
+      "2026-01-02": 653,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -1173,7 +1173,7 @@
     "timeMonth": 0,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2026-01-02": 643,
+      "2026-01-02": 653,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
