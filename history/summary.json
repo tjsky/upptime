@@ -5,11 +5,11 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "23-579-xyz",
     "status": "down",
-    "uptime": "57.86%",
+    "uptime": "57.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.43%",
+    "uptimeYear": "82.47%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -79,8 +79,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -199,7 +198,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.43%",
+    "uptimeYear": "82.47%",
     "time": 869,
     "timeDay": 0,
     "timeWeek": 0,
@@ -269,8 +268,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -278,19 +276,20 @@
     "url": "http://dl-a10b-0622.mypikpak.com",
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0622",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "34.48%",
-    "uptimeWeek": "33.52%",
-    "uptimeMonth": "84.40%",
-    "uptimeYear": "98.70%",
-    "time": 1484,
-    "timeDay": 1219,
-    "timeWeek": 1152,
-    "timeMonth": 1167,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "28.42%",
+    "uptimeWeek": "31.64%",
+    "uptimeMonth": "83.96%",
+    "uptimeYear": "98.66%",
+    "time": 1485,
+    "timeDay": 1262,
+    "timeWeek": 1155,
+    "timeMonth": 1168,
     "timeYear": 1519,
     "dailyMinutesDown": {
-      "2026-01-05": 945,
+      "2026-01-06": 189,
+      "2026-01-05": 947,
       "2026-01-04": 960,
       "2026-01-03": 885,
       "2026-01-02": 963,
@@ -310,7 +309,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.47%",
+    "uptimeYear": "82.51%",
     "time": 680,
     "timeDay": 0,
     "timeWeek": 0,
@@ -380,8 +379,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1235,
-      "2025-01-07": 1440,
-      "2025-01-06": 1433
+      "2025-01-07": 1440
     }
   },
   {
@@ -394,7 +392,7 @@
     "uptimeDay": "88.18%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "97.49%",
-    "uptimeYear": "81.69%",
+    "uptimeYear": "81.72%",
     "time": 3795,
     "timeDay": 6725,
     "timeWeek": 6717,
@@ -478,8 +476,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -488,7 +485,7 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0625",
     "status": "down",
-    "uptime": "53.46%",
+    "uptime": "53.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -499,7 +496,8 @@
     "timeMonth": 6629,
     "timeYear": 4345,
     "dailyMinutesDown": {
-      "2026-01-05": 1439,
+      "2026-01-06": 190,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -855,8 +853,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -981,18 +978,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-auto",
     "status": "down",
-    "uptime": "81.09%",
+    "uptime": "81.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.57%",
+    "uptimeYear": "57.53%",
     "time": 711,
     "timeDay": 753,
     "timeWeek": 717,
     "timeMonth": 762,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2026-01-05": 1439,
+      "2026-01-06": 190,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -1157,18 +1155,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-openai",
     "status": "down",
-    "uptime": "71.66%",
+    "uptime": "71.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.48%",
+    "uptimeYear": "25.44%",
     "time": 708,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2026-01-05": 1439,
+      "2026-01-06": 190,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
