@@ -37,13 +37,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: 下载0622
-    icon: https://mypikpak.com/apple-touch-icon.png
-    url: http://dl-a10b-0622.mypikpak.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
   - name: 下载0623
     icon: https://mypikpak.com/apple-touch-icon.png
     url: http://dl-a10b-0623.mypikpak.com
