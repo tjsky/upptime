@@ -65,8 +65,6 @@ sites:
     url: $SITE_PIC
   - name: SITE_RSS
     url: $SITE_RSS
-  - name: SITE_MS
-    url: $SITE_MS
   - name: SITE_CF
     url: $SITE_CF
   - name: SITE_AUTO
