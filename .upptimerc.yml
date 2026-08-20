@@ -3,9 +3,6 @@ owner: tjsky # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: 反代23（579.xyz）
-    url: https://pikpak.995579.xyz/https://1.1.1.1/cdn-cgi/trace
-    icon: https://mypikpak.com/apple-touch-icon.png
   - name: 反代24（sky.top）
     url: https://pikpak.tjsky.top/https://1.1.1.1/cdn-cgi/trace
     icon: https://mypikpak.com/apple-touch-icon.png
@@ -30,30 +27,9 @@ sites:
   - name: P-N主页
     icon: https://mypikpak.net/apple-touch-icon.png
     url: https://mypikpak.net/
-  - name: 下载0621
-    icon: https://mypikpak.com/apple-touch-icon.png
-    url: http://dl-a10b-0621.mypikpak.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: 下载0623
-    icon: https://mypikpak.com/apple-touch-icon.png
-    url: http://dl-a10b-0623.mypikpak.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
   - name: 下载0624
     icon: https://mypikpak.com/apple-touch-icon.png
     url: http://dl-a10b-0624.mypikpak.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-  - name: 下载0625
-    icon: https://mypikpak.com/apple-touch-icon.png
-    url: http://dl-a10b-0625.mypikpak.com
     expectedStatusCodes:
       - 200
       - 201
@@ -65,12 +41,6 @@ sites:
     url: $SITE_PIC
   - name: SITE_RSS
     url: $SITE_RSS
-  - name: SITE_CF
-    url: $SITE_CF
-  - name: SITE_AUTO
-    url: $SITE_AUTO
-  - name: SITE_OPENAI
-    url: $SITE_OPENAI
     
     
 status-website:
