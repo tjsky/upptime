@@ -124,7 +124,7 @@
     "icon": "https://mypikpak.com/apple-touch-icon.png",
     "slug": "0624",
     "status": "up",
-    "uptime": "76.69%",
+    "uptime": "76.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -319,11 +319,11 @@
     "url": "$SITE_PIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-pic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
     "time": 716,
     "timeDay": 543,
@@ -336,7 +336,8 @@
       "2026-01-05": 21,
       "2026-06-27": 32,
       "2026-07-28": 68,
-      "2026-08-07": 50
+      "2026-08-07": 50,
+      "2026-08-23": 5
     }
   },
   {
@@ -344,9 +345,9 @@
     "url": "$SITE_RSS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.77%",
@@ -361,7 +362,8 @@
       "2026-01-05": 21,
       "2026-06-27": 27,
       "2026-07-28": 63,
-      "2026-08-07": 45
+      "2026-08-07": 45,
+      "2026-08-23": 1
     }
   }
 ]
